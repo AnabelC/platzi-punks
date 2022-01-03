@@ -1,0 +1,22 @@
+{
+  "name": "platzi-punks",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de DApps introduccion al desarrollo de aplicaciones descentralizadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AnabelC/platzi-punks.git"
+  },
+  "keywords": [
+    "DApps"
+  ],
+  "author": "Anabel Campagnoli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnabelC/platzi-punks/issues"
+  },
+  "homepage": "https://github.com/AnabelC/platzi-punks#readme"
+}
